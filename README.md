@@ -2,7 +2,10 @@
 
 Windows launcher for Minecraft 1.21.4 with Fabric.
 
-- `FocusVisualsLauncher-1.0.0.exe` - Windows installer
-- `FocusVisualsLauncher-windows.zip` - portable package with bundled Java runtime
+## Downloads
 
-Use the Releases page to download the latest build.
+- [FocusVisualsLauncher-1.1.0.exe](https://github.com/MarselGumarov/FocusVisualsLauncher/releases/download/untagged-69d2252f5ac6c523e7c0/FocusVisualsLauncher-1.1.0.exe) - Windows installer
+- [FocusVisualsLauncher-portable.zip](https://github.com/MarselGumarov/FocusVisualsLauncher/releases/download/untagged-69d2252f5ac6c523e7c0/FocusVisualsLauncher-portable.zip) - portable package with bundled Java runtime
+
+FocusVisuals is downloaded from the official repository file:
+https://raw.githubusercontent.com/MarselGumarov/Focusvisualmod/main/FocusVisuals-1.1.jar
